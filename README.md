@@ -1,5 +1,6 @@
 # SCMDatasets
-Surface Complexation Modeling - Synthetic Datasets
+Surface Complexation Modeling Synthetic Datasets
+
 These is repository containing synthetic datasets for various types of Surface Complexation Models, with varying coverage of the parameter space.
 
 Datasets: 
